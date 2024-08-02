@@ -1,0 +1,92 @@
+{
+  "users": [
+    {
+      "id": "1721365389961",
+      "username": "asdf",
+      "email": "asdf",
+      "password": "asdf",
+      "created_date": "2024-07-19T05:03:09.961Z",
+      "updated_date": "2024-07-19T05:03:09.961Z"
+    },
+    {
+      "id": "1721366848718",
+      "username": "asdf",
+      "email": "asdfasdfas",
+      "password": "dfasd",
+      "created_date": "2024-07-19T05:27:28.718Z",
+      "updated_date": "2024-07-19T05:27:28.718Z"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "item_name": "Computer",
+      "description": "A powerful Computer",
+      "start_price": 300000,
+      "deadline": "2024-07-19T12:00:00Z",
+      "current_price": 300000,
+      "updated_date": "2024-07-19T05:03:09.961Z",
+      "image": "https://i.namu.wiki/i/RudfYNLERM6SRkSJdKFUaCrhDoLhdki2bMQ13vIVA1xdb8d8f0EEED3gNdnohebAO91Fre2LQPSxDRo27_t4xQ.webp"
+    },
+    {
+      "id": "2",
+      "item_name": "Phone",
+      "description": "A new smartphone",
+      "start_price": 1200000,
+      "deadline": "2024-09-19T12:30:00Z",
+      "updated_date": "2024-07-19T05:03:09.961Z",
+      "current_price": 2000000,
+      "image": "https://www.lguplus.com/static/pc-contents/images/prdv/20240319-044702-567-aGqElmTo.jpg"
+    },
+    {
+      "id": "3",
+      "item_name": "Lamborghini",
+      "description": "A new Lamborghini",
+      "start_price": 250000000,
+      "deadline": "2025-02-19T12:30:00Z",
+      "updated_date": "2024-07-31T07:22:44.134Z",
+      "current_price": 450000000,
+      "image": "https://cdn.newautopost.co.kr/newautopost/2024/04/03194152/%EB%9E%8C%EB%B3%B4%EB%A5%B4%EA%B8%B0%EB%8B%88-%EC%9A%B0%EB%9D%BC%EC%B9%B8-2.jpg"
+    },
+    {
+      "id": "4",
+      "item_name": "Mona Lisa",
+      "description": "레오나르도 다 빈치의 대표작 중 하나로, 현재 프랑스 파리에 위치한 루브르 박물관에 전시되어 있다. ",
+      "start_price": 1000000000,
+      "deadline": "2024-11-19T12:30:00Z",
+      "updated_date": "2024-07-19T05:03:09.961Z",
+      "current_price": 1000000000,
+      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDA3MTNfMTk3%2FMDAxNzIwODI3NzQ5Njk1.wwI3Jg4_35MY0tMfxMJpsmmHBIoBdwUtSfPAyUvdQeog.CbLIUeCxvKVcoNoLN0V6X10JgNjg3TlNEAI0IcH3V6Yg.PNG%2Fimage.png&type=a340"
+    },
+    {
+      "id": "5",
+      "item_name": "House",
+      "description": "반포 자이",
+      "start_price": 3000000000,
+      "deadline": "2024-11-20T12:30:00Z",
+      "updated_date": "2024-07-19T05:03:09.961Z",
+      "current_price": 3000000000,
+      "image": "https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyNDAyMTBfMTcw%2FMDAxNzA3NTY4MDIyMTI5.IhjTOmjKGnky9ERjzY65CWMD0XMMj2suw5PTwkkJyjUg.to3ll_UMKTfbH6HAp_UL8Af2hCDubVgdJpkUfHYJI3Yg.PNG.k05user1%2F21.png&type=a340"
+    },
+    {
+      "id": "6",
+      "item_name": "Phone",
+      "description": "A new smartphone",
+      "start_price": 1200000,
+      "deadline": "2024-09-19T12:30:00Z",
+      "updated_date": "2024-07-19T05:03:09.961Z",
+      "current_price": 1300000,
+      "image": "https://www.lguplus.com/static/pc-contents/images/prdv/20240319-044702-567-aGqElmTo.jpg"
+    },
+    {
+      "id": "7",
+      "item_name": "Phone",
+      "description": "A new smartphone",
+      "start_price": 1200000,
+      "deadline": "2024-09-19T12:30:00Z",
+      "updated_date": "2024-07-31T07:07:27.559Z",
+      "current_price": 2000000,
+      "image": "https://www.lguplus.com/static/pc-contents/images/prdv/20240319-044702-567-aGqElmTo.jpg"
+    }
+  ]
+}
